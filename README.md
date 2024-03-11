@@ -10,7 +10,7 @@ The **Modal** component is a reusable React modal that you can easily integrate 
 You can install the **Modal** component using npm:
 
 ```bash
-npm install my-modal-package
+npm install  @desdichado82/hrnet-react-modal@1.1.0
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ npm install my-modal-package
 Import the **Modal** component into your project:
 
 ```javascript
-import Modal from 'my-modal-package';
+import Modal from ' @desdichado82/hrnet-react-modal@1.1.0';
 ```
 
 Use it in your code:
